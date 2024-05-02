@@ -44,40 +44,18 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAXHeV5FZoYP7T6HeEC8pvRmq4yKidOCa0',
-    appId: '1:311070955861:web:23377e0eb211b1801a77dc',
-    messagingSenderId: '311070955861',
-    projectId: 'educative-todo-app',
-    authDomain: 'educative-todo-app.firebaseapp.com',
-    storageBucket: 'educative-todo-app.appspot.com',
-    measurementId: 'G-XQV1BDPMTX',
+   
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD8qlXVGIokobY08XLuQDWhTzPAEUmaut4',
-    appId: '1:311070955861:android:484d3399e8594cec1a77dc',
-    messagingSenderId: '311070955861',
-    projectId: 'educative-todo-app',
-    storageBucket: 'educative-todo-app.appspot.com',
+    
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAKmJ9vF1kIDea0WAqh554xWOBETRWXsKc',
-    appId: '1:311070955861:ios:b2438493d363d5021a77dc',
-    messagingSenderId: '311070955861',
-    projectId: 'educative-todo-app',
-    storageBucket: 'educative-todo-app.appspot.com',
-    iosClientId: '311070955861-28eiv351bjkri1nobrqaq6lkbisn5i6i.apps.googleusercontent.com',
-    iosBundleId: 'com.example.getxTodoExample',
+  
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAKmJ9vF1kIDea0WAqh554xWOBETRWXsKc',
-    appId: '1:311070955861:ios:fd1456fecc21a23a1a77dc',
-    messagingSenderId: '311070955861',
-    projectId: 'educative-todo-app',
-    storageBucket: 'educative-todo-app.appspot.com',
-    iosClientId: '311070955861-7rqtdho9trv1l8dr66c2ph7kcq28oivn.apps.googleusercontent.com',
-    iosBundleId: 'com.example.getxTodoExample.RunnerTests',
+   
   );
 }
